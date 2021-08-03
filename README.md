@@ -1,9 +1,5 @@
 ### Hi there 👋
-![Ricardo Status](https://github-readme-stats.vercel.app/api?username=RicardoTaverna&show_icons=true&theme=tokyonight)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoTaverna&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/RicardoTaverna/github-readme-stats)
-
-[![Ricardo wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ricardotaverna)](https://github.com/anuraghazra/github-readme-stats)
+![Ricardo Status](https://github-readme-stats.vercel.app/api?username=RicardoTaverna&show_icons=true&theme=tokyonight)(https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoTaverna&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/RicardoTaverna/github-readme-stats)
 
 
 <!--
