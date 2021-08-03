@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![Ricardo Status](https://github-readme-stats.vercel.app/api?username=RicardoTaverna&show_icons=true&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoTaverna&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/RicardoTaverna/github-readme-stats)
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoTaverna&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/RicardoTaverna/github-readme-stats)
 
 
 <!--
